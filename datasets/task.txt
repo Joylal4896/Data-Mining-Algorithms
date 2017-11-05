@@ -1,0 +1,13 @@
+download iris dataset
+
+with the iris dataset, create a scatter plot with each point coloured by its code
+
+make a plot of each attributre of the iris dataset and overlay the plot with a moving average line of size 3
+
+plot the histogram of all the attributes in iris in a single figure using subplots
+
+make a bar chart of the 50 most common words in treasure island
+
+with the text in treasure island develop a minimal search engine, time your search for 20 words
+
+download , write a python script that works like a minimal search engine assuming the corpus is these 12 documents
